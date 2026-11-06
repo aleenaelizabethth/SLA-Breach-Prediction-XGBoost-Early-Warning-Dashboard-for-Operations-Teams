@@ -12,9 +12,7 @@ A machine learning project that predicts which employees are likely to **breach 
 ![EDA and insights](images/04_eda_insights.png)
 ![Data overview](images/05_data_overview.png)
 
-</details>
 
-**Demo video:** [link to your video here]  |  **Live app:** [link to Streamlit Cloud here, if deployed]
 
 ---
 
